@@ -110,9 +110,14 @@ h2 ~ p {
 }
 
 /* SOCIAL STYLES */
+.social-footer {
+  padding-top: 1em;
+}
+.social-hero {
+  padding: 0;
+}
 .social-list {
   list-style: none;
-  padding: 0;
   text-align: center;
 }
 .social-link {
